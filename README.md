@@ -2,11 +2,11 @@
 A simple Rock Paper Scissors game built for fun and learning.
 
 # Features
-Computer randomly selects its move
-
 Player chooses Rock, Paper, or Scissors
 
-Instant result display (Win / Lose / Draw)
+Computer randomly selects its move
+
+Instant result display (Win / Lose / Tie)
 
 Simple and interactive interface
 
