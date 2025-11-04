@@ -20,7 +20,7 @@ Simple and interactive interface
 3. Navigate to the project folder
 
    ```
-   cd Rock-Paper-Scissors
+   cd Simple-Rock-Paper-Scissors-game
    ```
 
 5. Open index.html in your browser
